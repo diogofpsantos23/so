@@ -1,0 +1,3 @@
+/home/diogo/Desktop/projeto/CMakeFiles/projeto.dir
+/home/diogo/Desktop/projeto/CMakeFiles/edit_cache.dir
+/home/diogo/Desktop/projeto/CMakeFiles/rebuild_cache.dir
